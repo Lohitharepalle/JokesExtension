@@ -1,0 +1,18 @@
+body {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(197, 188, 228);
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(16, 77, 105);
+    border-radius: 4px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 15px;
+}
