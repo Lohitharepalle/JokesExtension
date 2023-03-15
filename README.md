@@ -10,10 +10,10 @@ To install the extension, follow these steps:
   <li>Click the "Load unpacked" button and select the folder of your project.</li>
  </ul>
 
-<h4>Usage</h4>
+<h3>Usage</h3>
 To use the extension, click on the icon in the toolbar. A popup window will appear with a random joke.
 
-<h4>Technologies Used</h4>
+<h3>Technologies Used</h3>
 This extension was built using the following technologies:
 <ul>
   <li>HTML</li>
@@ -22,10 +22,10 @@ This extension was built using the following technologies:
   <li>Chrome Extension API</li>
   <li>Jokes API</li>
 </ul>
-<h5>Acknowledgements</h5>
+<h3>Acknowledgements</h3>
 The jokes used in this extension were retrieved from the Jokes API.
 
-<h5>Contributing</h5>
+<h3>Contributing</h3>
 Contributions are always welcome! If you'd like to contribute to this project, please create a pull request or submit an issue.
 
 
